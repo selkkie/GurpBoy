@@ -1,5 +1,6 @@
 # GurpBoy
-A work in progres.
+A work in progress.
+CURRENTLY I HAVE NOT MADE CHANGES FROM SOLAZDEV'S, THESE ARE STRICTLY PLANNED.
 
 ##About
 Based on SolAZDev's Raspberry PiBoy5 project.
